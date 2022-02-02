@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\script menu\gagal.cs">
+    <Files>
+      <File FileName="Assets\script\script_player\pemain.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\musuh\Musuh_gerak.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\script game\Paused.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\script menu\gagal.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

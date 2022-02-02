@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scane/menu_utama/S_menu_utama.unity
+  isLoaded: 1
+  isActive: 1

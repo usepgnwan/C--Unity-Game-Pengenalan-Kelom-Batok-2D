@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e9c2c85e5bafe554dbc4f240785bbd7e
+timeCreated: 1580521837
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cookies
+  fontNames:
+  - Cookies
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
